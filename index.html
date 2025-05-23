@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/main.css">
+    <title>Menu Navigation</title>
+</head>
+
+<body>
+    <section class="navbar">
+        <div class="navbar-container">
+            <div class="logo">
+                <img src="./image/logo.png" alt="Logo" />
+            </div>
+
+            <div class="hamburger" id="hamburger">☰</div> <!-- Menu hambuguer -->
+
+            <nav id="nav">
+                <a href="#">Home</a>
+                <a href="#">About</a>
+                <a href="#">Product</a>
+                <a href="#">Service</a>
+                <a href="#">Contact</a>
+                <span></span>
+            </nav>
+
+            <div class="action-button">
+                <a href="login.html"><button>Sign-up</button></a>
+            </div>
+        </div>
+
+        <div class="center-content">
+            <h2><strong>Winter Sro</strong></h2>
+            <p>Bem-vindo ao nosso site!</p>
+        </div>
+
+        <p class="copyright">
+            &copy; 2025 Made with ♥ by <a href="https://github.com/wintersro" target="_blank"  class="copyright-link">codewintersro.</a>
+        </p>
+    </section>
+
+</body>
+
+<script>
+    const hamburger = document.getElementById('hamburger');
+    const container = document.querySelector('.navbar-container');
+
+    hamburger.addEventListener('click', () => {
+        container.classList.toggle('active');
+    });
+</script>
+
+</html>
