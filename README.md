@@ -18,14 +18,6 @@ Este projeto foi criado para praticar a construção de um menu moderno e animad
 
 ---
 
-## 📸 Preview
-
-<p align="center">
-  <video src="./image/Menu Navigation - Google Chrome 2025-05-23 07-51-32.mp4" alt="Demonstração do Menu Animado" width="700"></video>
-</p>
-
----
-
 ## ✨ Funcionalidades
 
 - 🎨 Gradiente animado nos links do menu
@@ -79,8 +71,6 @@ Menu_Animated_Navigation/
 
 - Acesse seu projeto em:
 
-https://seu-usuario.github.io/Menu_Animated_Navigation
-
-```bash
+https://github.com/wintersro/Menu_Animated_Navigation
 
 
