@@ -1,13 +1,14 @@
-<h1 align="center">Menu_Animated_Navigation 🚀</h1>
+<h1 align="center">Menu Animated Navigation 🚀</h1>
 
 <p align="center">
   Navegação animada, responsiva e estilizada com gradientes, botão de ação e menu hambúrguer.
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/VSCODE-blue?style=for-the-badge&logo=vscode" />
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Responsivo-%E2%9C%85-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responsivo-%E2%9C%85?style=for-the-badge" />
 </p>
 
 ---
@@ -54,7 +55,7 @@ Menu_Animated_Navigation/
 
     1. Clone o repositório:
 
-    git clone https://github.com/seu-usuario/    Menu_Animated_Navigation.git
+    git clone https://github.com/seu-usuario/Menu_Animated_Navigation.git
 
     2. Abra o arquivo `index.html` no seu navegador.
 
