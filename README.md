@@ -11,6 +11,7 @@
   <img src="https://img.shields.io/badge/Responsivo-%E2%9C%85?style=for-the-badge" />
 </p>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0000ff&width=435&lines=Deixe+a+sua+%F0%9F%8C%9F+nos+meus+reposit%C3%B3rios!;Eu+ficarei+muito+agradecido!+%F0%9F%98%89)](https://git.io/typing-svg)
 ---
 
 ## 🎯 Objetivo
